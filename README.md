@@ -1,4 +1,4 @@
-# creative rails project
+# Scenes: Social Media Platform 
 
 Contributors: Chen Pekker and Daksha Agarwal
 
