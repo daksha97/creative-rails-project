@@ -17,7 +17,7 @@ As an online user, this application will allow you to share your thoughts instan
 Here are a couple of examples of what creating and editing a post will look like, as well as the main page:
 
 Example of the main page:
-![alt text](https://github.com/chenphmc/creative-rails-project/blob/master/mainPage.jpg)
+![alt text](https://github.com/daksha97/scenes_social_media_platform/blob/master/mainPage.jpg)
 
 Example of creating a scene:
 ![alt text](https://github.com/chenphmc/creative-rails-project/blob/master/newT.jpg)
